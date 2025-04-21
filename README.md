@@ -19,7 +19,7 @@
   🗃️ <strong>Databases:</strong> MySQL, MongoDB<br><br>
 
   🔗 <strong>You can connect with me through:</strong><br>
-  📇 <strong>LinkedIn:</strong> https://www.linkedin.com/in/apurvgupta<br>
+  📇 <strong>LinkedIn:</strong> <br>
   🐙 <strong>GitHub:</strong> https://github.com/Apurv7Gupta<br>
   📧 <strong>Email:</strong> Apurvgupta.2017@gmail.com
 </h2>
