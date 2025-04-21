@@ -2,7 +2,7 @@
   👋 <strong>Hey there, I'm Apurv Gupta</strong> — a <strong>B.Tech CSE undergrad</strong>, exploring and building skills across  
   <strong>🌐 Web Development</strong>,  
   <strong>⚙️ Systems Programming</strong> (C, C++),  
-  <strong>🤖 Machine Learning</strong>, and  
+  <strong>🤖 Machine Learning</strong>,  
   <strong>🐳 DevOps</strong> (Docker, CI/CD, etc.),  
   <strong>🎨 UI/UX Design</strong>, and  
   <strong>🗄️ Database Management Systems</strong> (MongoDB, MySQL).  
