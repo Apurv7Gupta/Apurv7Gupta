@@ -21,7 +21,7 @@
   🗃️ <strong>Databases:</strong> MySQL, MongoDB<br><br>
 
   🔗 <strong>Connect with me:</strong><br>
-  📇 <strong>LinkedIn:</strong> [LinkedIn Profile](#)<br>
+  📇 <strong>LinkedIn:</strong> www.linkedin.com/in/apurv7gupta<br>
   🐙 <strong>GitHub:</strong> [Apurv7Gupta on GitHub](https://github.com/Apurv7Gupta)<br>
   📧 <strong>Email:</strong> Apurvgupta.2017@gmail.com
 </h2>
