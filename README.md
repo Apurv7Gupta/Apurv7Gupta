@@ -1,13 +1,5 @@
 <h2 align="left" style="font-family: Segoe UI, sans-serif; line-height: 1.6;">
-  👋 <strong>Hi, I'm Apurv Gupta</strong>, a <strong>B.Tech CSE undergrad</strong> with expertise in:
-  <ul>
-    <li><strong>🌐 Web Development</strong></li>
-    <li><strong>⚙️ Systems Programming</strong> (C, C++)</li>
-    <li><strong>🤖 Machine Learning</strong></li>
-    <li><strong>🐳 DevOps</strong> (Docker, CI/CD, etc.)</li>
-    <li><strong>🎨 UI/UX Design</strong></li>
-    <li><strong>🗄️ Database Management Systems</strong> (MongoDB, MySQL)</li>
-  </ul>
+  👋 <strong>Hi, I'm Apurv Gupta</strong>, a <strong>B.Tech CSE undergrad</strong>
 
   <br>
   I am constantly expanding my skills, and here’s a list of the technologies I’ve mastered so far:
