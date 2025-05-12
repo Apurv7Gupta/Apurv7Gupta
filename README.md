@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apurv7Gupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-
+---
 
 <div align="left">
   
@@ -47,6 +47,8 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="Bash logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="Material UI logo" />
 </div>
+
+---
 
 <div align="left" style="margin-top: 20px;">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
