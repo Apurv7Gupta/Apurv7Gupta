@@ -23,10 +23,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apurv7Gupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/1d/38/e9/1d38e933b479dd4c44e10ec2f599bfca.jpg" />
+
 
 <div align="left">
-  <!-- Add technology logos here -->
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
