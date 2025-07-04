@@ -1,15 +1,13 @@
 <h2 align="left" style="font-family: Segoe UI, sans-serif; line-height: 1.6;">
-  👋 <strong>Hi, I'm Apurv Gupta</strong>, a <strong>B.Tech CSE undergrad</strong>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurv7gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Apurv Gupta" /> </p>
 
-  <br>
+  👋 <strong>Hi, I'm Apurv Gupta</strong>, a <strong>B.Tech CSE undergrad.</strong>
   I am constantly expanding my skills, and here’s a list of the technologies I’ve mastered so far:
-  <br><br>
+
   
 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apurv7gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Apurv Gupta" /> </p>
-
----
+<br>
 
 <div align="left">
   
@@ -25,15 +23,7 @@
 | 🎨 UI/UX Design    | ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Animate](https://img.shields.io/badge/adobe_animate-FF6100?style=for-the-badge&logo=adobeanimate&logoColor=white) |
 
 </div>
-
----
-
-<div align="left" style="margin-top: 20px;">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-</div>
-
-<br clear="both">
+<br>
 
 ## 📈 Contribution Graph:
 <div align="center">
