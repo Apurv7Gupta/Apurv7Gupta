@@ -1,6 +1,13 @@
 <h2 align="left" style="font-family: Segoe UI, sans-serif; line-height: 1.6;">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurv7gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Apurv Gupta" /> </p>
 
+
+
+<video src="https://github.com/user-attachments/assets/9421ce4f-4f2e-422b-98e7-77397b52093c" width="600" autoplay loop muted controls></video>
+
+
+
+
   👋 <strong>Hi, I'm Apurv Gupta</strong>, a <strong>B.Tech CSE undergrad.</strong>
   I am constantly expanding my skills, and here’s a list of the technologies I’ve mastered so far:
 
