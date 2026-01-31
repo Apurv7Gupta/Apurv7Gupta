@@ -2,18 +2,13 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurv7gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Apurv Gupta" /> </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Apurv Gupta, a <strong>B.Tech CSE undergrad.</strong>
-  I am constantly expanding my skills, and here’s a list of the technologies I’ve mastered so far:
-
-  
 </h2>
 
-<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=520&lines=Turning+Incidents+into+Postmortems;Navigating+the+Neural+Net;Debugging+at+Runtime;Learning+Stuff+Nobody+Told+Me+About" alt="Typing SVG" />
 </a>
 
-</div>
-
+I am constantly expanding my skills, and here’s a list of the technologies I’ve mastered so far:
 <br>
 
 <div align="left">
