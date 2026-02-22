@@ -1,7 +1,9 @@
 <h2 align="left" style="font-family: Segoe UI, sans-serif; line-height: 1.6;">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurv7gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Apurv Gupta" /> </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Apurv Gupta, a <strong>B.Tech CSE undergrad.</strong>
+# <img src="https://media2.giphy.com/media/v1.Y2lkPWFlZWNjYzExeGUzY3d2NXF0ZWcwZTJpMnd1MTRuZjcyczFlOGg5MTE0cnB2bnR2NCZlcD12MV9naWZzX2dpZklkJmN0PWc/6hKL8BI8rRNrMRFtAx/200.gif" width="60px"> Hi, I'm Apurv Gupta, a <strong>B.Tech CSE undergrad.</strong>
+
+
 </h2>
 
 <a href="https://git.io/typing-svg">
