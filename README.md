@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=520&lines=Turning+Incidents+into+Postmortems;Navigating+the+Neural+Net;Debugging+at+Runtime;Learning+Stuff+Nobody+Told+Me+About" alt="Typing SVG" />
 </a>
 
-I am constantly expanding my skills, and here’s a list of the technologies I’ve mastered so far:
+I am constantly expanding my skillset, and here’s a list of the technologies I’ve mastered so far:
 <br>
 
 <div align="left">
