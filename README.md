@@ -33,7 +33,12 @@
 </div>
 <br>
 
-## Activity
+<br>
+<div align="middle">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apurv7Gupta&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&text_color=A1A1AA&icon_color=52525B)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Apurv7Gupta&theme=transparent&hide_border=true&ring=52525B&fire=52525B&currStreakNum=FAFAFA&currStreakLabel=A1A1AA&sideNums=FAFAFA&sideLabels=A1A1AA&dates=A1A1AA)
+  ## Activity
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Apurv7Gupta&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&text_color=A1A1AA&icon_color=52525B)
+
+</div>
+<br>
