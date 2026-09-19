@@ -38,7 +38,7 @@
 
   ## Activity
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Apurv7Gupta&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&text_color=A1A1AA&icon_color=52525B)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=0xd34db8&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&text_color=A1A1AA&icon_color=52525B)
 
 </div>
 <br>
